@@ -16,6 +16,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
 end
 result
+end
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # Produce a new Array that contains the larger number of each of the pairs
