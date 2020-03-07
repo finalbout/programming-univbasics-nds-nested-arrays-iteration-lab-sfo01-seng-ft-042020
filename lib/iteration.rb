@@ -2,7 +2,8 @@ def join_ingredients(src)
   result = []
   
   i = 0 
-  if 
+  while i < src.length do 
+    
   
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
